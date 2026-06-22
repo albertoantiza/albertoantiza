@@ -4,6 +4,6 @@ Backend / AI Engineer passionate about building intelligent, scalable systems. I
 
 Proficient in **TypeScript**, with hands-on experience designing and deploying on **AWS**, containerizing with **Docker**, and automating everything through **CI/CD pipelines**.
 
-I believe clean code, automation, and robust infrastructure go hand in hand.
+I genuinely enjoy working with others — I believe collaboration drives mutual growth and shared progress.
 
 📫 **Contact:** albertoantiza1@gmail.com  |   🧾 **LinkedIn:** https://www.linkedin.com/in/albertoantiza/
