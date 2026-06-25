@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Backend / AI Engineer passionate about building intelligent, scalable systems. I work across the stack — from containerized backends to cloud-native infrastructure and AI-powered services.
+AI Developer / Fullstack passionate about building intelligent, scalable systems. I work across the stack — from containerized backends to cloud-native infrastructure and AI-powered services.
 
 Proficient in **TypeScript**, with hands-on experience designing and deploying on **AWS**, containerizing with **Docker**, and automating everything through **CI/CD pipelines**.
 
